@@ -3,7 +3,7 @@
 <p align="center">Portfólio para videomaker e social media</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/testemarquito/"><strong>🌐 Ver projeto online</strong></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/marcos-antonio-portfolio/"><strong>🌐 Ver projeto online</strong></a>
 </p>
 
 ---
@@ -28,8 +28,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/testemarquito.git
-cd testemarquito
+git clone https://github.com/santanadesouzanicolas32-sketch/marcos-antonio-portfolio.git
+cd marcos-antonio-portfolio
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
